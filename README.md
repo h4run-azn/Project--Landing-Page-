@@ -3,7 +3,7 @@
 # A Tesla Clone which created with HTML and CSS .
 
 # Topics
--HTML -CSS
+HTML -CSS
 
 # Author
 Harun Azun (h4run-azn)
